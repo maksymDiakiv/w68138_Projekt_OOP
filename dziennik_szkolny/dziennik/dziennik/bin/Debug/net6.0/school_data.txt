@@ -1,0 +1,8 @@
+Student,1,John Doe,10
+Student,2,Jane Smith,11
+Teacher,1,Mr. Johnson,Math
+Teacher,2,Ms. Adams,English
+Subject,1,Mathematics
+Subject,2,Physics
+Grade,1,1,1,4,5
+Grade,2,2,2,3,75

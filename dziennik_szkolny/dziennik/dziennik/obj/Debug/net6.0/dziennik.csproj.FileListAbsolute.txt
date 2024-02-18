@@ -1,0 +1,14 @@
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\bin\Debug\net6.0\dziennik.exe
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\bin\Debug\net6.0\dziennik.deps.json
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\bin\Debug\net6.0\dziennik.runtimeconfig.json
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\bin\Debug\net6.0\dziennik.dll
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\bin\Debug\net6.0\dziennik.pdb
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\obj\Debug\net6.0\dziennik.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\obj\Debug\net6.0\dziennik.AssemblyInfoInputs.cache
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\obj\Debug\net6.0\dziennik.AssemblyInfo.cs
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\obj\Debug\net6.0\dziennik.csproj.CoreCompileInputs.cache
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\obj\Debug\net6.0\dziennik.dll
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\obj\Debug\net6.0\refint\dziennik.dll
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\obj\Debug\net6.0\dziennik.pdb
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\obj\Debug\net6.0\dziennik.genruntimeconfig.cache
+D:\programming\c#projects\dziennik_szkolny\dziennik\dziennik\obj\Debug\net6.0\ref\dziennik.dll
